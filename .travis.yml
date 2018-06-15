@@ -5,6 +5,7 @@ jdk: oraclejdk8
 
 before_install:
   - unset _JAVA_OPTIONS
+  - chmod +x gradlew
 
 jobs:
   include:
