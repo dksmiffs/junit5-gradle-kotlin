@@ -7,12 +7,10 @@
  *
  * http://www.eclipse.org/legal/epl-v20.html
  */
-package com.example.project
-
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
 
-class CalculatorTests {
+class HelloTest {
 
   @Test
   fun simplest() {
@@ -20,3 +18,4 @@ class CalculatorTests {
     assertEquals(2, two, "1 + 1 should equal 2")
   }
 }
+
