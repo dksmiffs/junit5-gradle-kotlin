@@ -14,3 +14,4 @@ jobs:
       env: TOOL='Gradle'
       env: TOPIC='Kotlin'
       script: cd $TRAVIS_BUILD_DIR && ./gradlew test --console plain
+
