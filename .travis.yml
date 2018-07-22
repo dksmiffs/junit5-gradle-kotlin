@@ -11,6 +11,7 @@ jobs:
   include:
 # starter
     - stage: starter
+      name: "Jupiter Starter Sample: Gradle & Kotlin"
       env: TOOL='Gradle'
       env: TOPIC='Kotlin'
       script: cd $TRAVIS_BUILD_DIR && ./gradlew test --console plain
