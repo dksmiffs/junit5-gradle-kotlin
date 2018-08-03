@@ -1,5 +1,5 @@
 plugins {
-  kotlin("jvm") version "1.2.51"
+  kotlin("jvm") version "1.2.60"
 }
 
 val junitVersion: String = "5.2.0"
