@@ -1,6 +1,6 @@
 # junit5-gradle-kotlin [![ci-badge]][ci-travis]
 
-This project (originally called `junit5-jupiter-starter-gradle-kotlin`) demonstrates how to run tests based on [JUnit 5] Jupiter using [Gradle's native JUnit Platform support] support, [Gradle]'s Kotlin DSL and code and tests written in [Kotlin].
+This project (originally called `junit5-jupiter-starter-gradle-kotlin`) demonstrates how to run tests based on [JUnit 5] Jupiter using [Gradle's native JUnit Platform support], [Gradle]'s Kotlin DSL and code and tests written in [Kotlin].
 
 ## Usage
 1. [Install Gradle].
@@ -13,3 +13,4 @@ This project (originally called `junit5-jupiter-starter-gradle-kotlin`) demonstr
 [Gradle]: https://gradle.org/
 [Kotlin]: https://kotlinlang.org/
 [Install Gradle]: https://docs.gradle.org/current/userguide/installation.html
+
