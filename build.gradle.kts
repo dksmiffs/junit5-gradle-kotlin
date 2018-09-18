@@ -1,8 +1,8 @@
 plugins {
-  kotlin("jvm") version "1.2.61"
+  kotlin("jvm") version "1.2.70"
 }
 
-val junitVersion: String = "5.2.0"
+val junitVersion: String = "5.3.1"
 
 repositories {
   jcenter()
